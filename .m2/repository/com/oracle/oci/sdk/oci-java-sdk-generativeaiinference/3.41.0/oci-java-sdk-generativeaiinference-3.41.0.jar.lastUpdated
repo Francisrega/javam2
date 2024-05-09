@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 07 22:05:56 GMT 2024
+0b88bd2a1051b06b39a6ab68f45825fddd81150e@default-oracle-maven-repo-https\://maven.oracle.com/.lastUpdated=1715119556695
+https\://maven.oracle.com/.error=Could not transfer artifact com.oracle.oci.sdk\:oci-java-sdk-generativeaiinference\:jar\:3.41.0 from/to oracle-maven-repo (https\://maven.oracle.com)\: status code\: 401, reason phrase\: Unauthorized (401)
+https\://repo.maven.apache.org/maven2/.lastUpdated=1715119556827

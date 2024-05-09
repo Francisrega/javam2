@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 08 01:15:29 GMT 2024
+@default-oracle-maven-repo-https\://maven.oracle.com/.lastUpdated=1715130928053
+https\://maven.oracle.com/.error=Could not transfer artifact com.oracle.oci.sdk\:oci-java-sdk-common-httpclient-jersey\:jar\:3.41.0 from/to oracle-maven-repo (https\://maven.oracle.com)\: status code\: 401, reason phrase\: Unauthorized (401)
+https\://maven.oracle.com/public/.error=
+https\://maven.oracle.com/public/.lastUpdated=1715130929680
+https\://repo.maven.apache.org/maven2/.lastUpdated=1715130929895
